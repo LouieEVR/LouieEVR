@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LouieEVR
 - 👀 I’m interested in Networks and Systems Administration. 
-- 🌱 I’m currently learning Docker, Grafana Dashboards and Secuurity.
+- 🌱 I’m currently learning Docker, Grafana Dashboards and Security.
 - 💞️ I’m looking to collaborate on Docker Projects
 - 📫 You cna reach me here and over email.
 
